@@ -16,4 +16,4 @@ This Framework contains sample code for # Cypress-e2e-Allure Automation-Framewor
 
 **Report view**
 
-To see the results of the allure reporter, click [here](https://azanir.github.io/cypressAllure/)
+To see the results of the allure reporter of the reviewed project, click [here](https://azanir.github.io/cypressAllure/)
