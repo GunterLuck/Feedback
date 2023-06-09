@@ -1,6 +1,6 @@
 ## Feedback
 
-# This project is a feedback to the cypressAllure project from AZANIR
+# This project is a feedback to the [cypressAllure](https://github.com/AZANIR/cypressAllure) project from AZANIR
 
 ## About the project
 
