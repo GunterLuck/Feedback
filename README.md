@@ -1,18 +1,10 @@
 ## Feedback
 
-# This project is a feedback to the [cypressAllure](https://github.com/AZANIR/cypressAllure) project from AZANIR
+# This project is a feedback to the [cypressAllure](https://github.com/AZANIR/cypressAllure)
 
 ## About the project
 
-This Framework contains sample code for # Cypress-e2e-Allure Automation-Framework
-
--   Page Object Model
-
--   Reading test data from json file
-
--   Simple login scenario with valid credentials and with invalid credentials
-
--   Allure report integration
+In this project, I made an analysis of the mistakes made in the project [cypressAllure](https://github.com/AZANIR/cypressAllure) and described them
 
 **Report view**
 
